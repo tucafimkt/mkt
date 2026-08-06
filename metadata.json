@@ -1,0 +1,6 @@
+{
+  "name": "Portal de Diseño de Marketing",
+  "description": "Portal de gestión y seguimiento de solicitudes de diseño de marketing con panel de asesor, detalle de solicitud, panel de control de KPIs e ingreso de nuevas solicitudes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
